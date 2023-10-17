@@ -1,5 +1,5 @@
 [![MasterHead](https://github.com/Indhu248/Indhu248/assets/81157199/08da2b12-2203-4107-9d59-eeec2e1a56e8)](https://indhu248.github.io/portfolio_indhu/)
-@@ text in red [__<h1 align="center">Hi 👋,I'm Indravathi</h1>__] @@
+@@ text in red __<h1 align="center">Hi 👋,I'm Indravathi</h1>__ @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=indhu248&label=Profile%20views&color=0e75b6&style=flat" alt="indhu248" /> </p>
