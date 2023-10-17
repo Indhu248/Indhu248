@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://indhu248.github.io/portfolio_indhu/)
+[![MasterHead](https://github.com/Indhu248/Indhu248/assets/81157199/08da2b12-2203-4107-9d59-eeec2e1a56e8)](https://indhu248.github.io/portfolio_indhu/)
 <h1 align="center">Hi 👋, I'm Indravathi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
