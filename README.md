@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=indhu248&label=Profile%20views&color=0e75b6&style=flat" alt="indhu248" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=indhu248" alt="indhu248" /></a> </p>
-
 - 🌱 I’m currently learning **ReactJS, AngularJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Indhu248](https://github.com/Indhu248)
