@@ -10,15 +10,17 @@ MERN Developer, Seeking Entry-Level Opportunity
 **Styling & animation frameworks:** `TailwindCSS` `FramerMotion` </br>
 `DSA`
 
-## 📩 Contact
-<a> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="indhu248" height="30" width="50" backgroundColor=""/></a>
-
-<a href="https://www.linkedin.com/in/botcha-indravathi-8b77391aa/" target="blank"
-  backgroundColor="white"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="botcha-indravathi" height="30" width="50" /></a>
-<a href="https://www.instagram.com/indhu_hehhehe/" target="blank" backgroundColor="white"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="indhu_hehhehe" height="30" width="50" /></a>
+<a><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="indhu248" height="30" width="50" backgroundColor=""/></a>
 <a href="https://www.hackerrank.com/profile/botchaindravath1" target="blank" backgroundColor="white"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="botchaindravath1" height="30" width="50" /></a>
 <a href="https://leetcode.com/botchaindravathi248/" target="blank" backgroundColor="white"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="botchaindravathi248" height="30" width="50" /></a>
-</p>
+
+## 📩 Contact
+
+<a href="https://www.linkedin.com/in/botcha-indravathi-8b77391aa/" target="blank"
+  backgroundColor="white">For a quick response, DM me on <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="botcha-indravathi" height="30" width="50" /></a>
+  
+<a href="https://www.instagram.com/indhu_hehhehe/" target="blank" backgroundColor="white">Instagram <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="indhu_hehhehe" height="30" width="50" /></a>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
