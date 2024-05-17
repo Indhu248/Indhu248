@@ -3,7 +3,7 @@
 
 ## 📦 ToolBox
 
-- ** Front-end: ** HTML CSS JavaScript ReactJS TypeScript
+- __ Front-end: __ HTML CSS JavaScript ReactJS TypeScript
 - ** Back-end: ** NodeJs ExpressJs
 - ** Languages: ** Java Python
 - ** Database: ** SQL MongoDB
