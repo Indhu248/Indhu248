@@ -1,15 +1,15 @@
-<h1 align="centre">Hey, I'm Indravathi 👋</h1>
-<h3 align="centre">MERN Developer, Seeking Entry-Level Opportunity</h3>
+# align="centre">Hey, I'm Indravathi 👋
+### MERN Developer, Seeking Entry-Level Opportunity
 
 ## 📦 ToolBox
 
 **Front-end:** `HTML` `CSS` `JavaScript` `ReactJS` `TypeScript` </br>
-**Back-end:** NodeJs ExpressJs </br>
-**Languages:** Java Python </br>
-**Database:** SQL MongoDB </br>
-**Version Control:** Git GitHub </br>
-**Styling & animation frameworks:** TailwindCSS FramerMotion </br>
-DSA
+**Back-end:** `NodeJs` `ExpressJs` </br>
+**Languages:** `Java` `Python` </br>
+**Database:** `SQL` `MongoDB` </br>
+**Version Control:** `Git` `GitHub` </br>
+**Styling & animation frameworks:** `TailwindCSS` `FramerMotion` </br>
+`DSA`
 
 <h3 align="centre">Connect with me:</h3>
 <p align="centre">
