@@ -3,13 +3,13 @@
 
 ## 📦 ToolBox
 
-- __ Front-end: __ HTML CSS JavaScript ReactJS TypeScript
-- ** Back-end: ** NodeJs ExpressJs
-- ** Languages: ** Java Python
-- ** Database: ** SQL MongoDB
-- ** Version Control: ** Git GitHub
-- ** Styling & animation frameworks: ** TailwindCSS FramerMotion
-- DSA
+**Front-end:** __ HTML CSS JavaScript ReactJS TypeScript
+**Back-end:** NodeJs ExpressJs
+**Languages:** Java Python
+**Database:** SQL MongoDB
+**Version Control:** Git GitHub
+**Styling & animation frameworks:** TailwindCSS FramerMotion
+DSA
 
 <h3 align="centre">Connect with me:</h3>
 <p align="centre">
