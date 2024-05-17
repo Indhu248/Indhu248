@@ -1,8 +1,7 @@
-# align="centre">Hey, I'm Indravathi 👋
-### MERN Developer, Seeking Entry-Level Opportunity
+## Hey, I'm Indravathi 👋
+MERN Developer, Seeking Entry-Level Opportunity
 
 ## 📦 ToolBox
-
 **Front-end:** `HTML` `CSS` `JavaScript` `ReactJS` `TypeScript` </br>
 **Back-end:** `NodeJs` `ExpressJs` </br>
 **Languages:** `Java` `Python` </br>
