@@ -1,7 +1,7 @@
 ### Hey, I'm Indravathi 👋
 MERN Developer, Seeking Entry-Level Opportunity
 
-$${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
+$${\color{#3b82f6}MERN Developer, Seeking Entry-Level Opportunity}$$
 
 ## 📦 ToolBox
 **Front-end:** `HTML` `CSS` `JavaScript` `ReactJS` `TypeScript` </br>
