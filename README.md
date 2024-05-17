@@ -17,9 +17,9 @@ MERN Developer, Seeking Entry-Level Opportunity
 ## 📩 Contact
 
 <a href="https://www.linkedin.com/in/botcha-indravathi-8b77391aa/" target="blank"
-  backgroundColor="white"><img align="center" height="10px" width="10px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="botcha-indravathi" height="30" width="50" /></a>
+  backgroundColor="white"><img align="center" height="20px" width="20px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="botcha-indravathi" height="30" width="50" /></a>
   
-<a href="https://www.instagram.com/indhu_hehhehe/" target="blank" backgroundColor="white">Instagram <img align="center" height="10px" width="10px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="indhu_hehhehe" height="30" width="50" /></a>
+<a href="https://www.instagram.com/indhu_hehhehe/" target="blank" backgroundColor="white">Instagram <img align="center" height="20px" width="20px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="indhu_hehhehe" height="30" width="50" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
