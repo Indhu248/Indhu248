@@ -14,12 +14,14 @@ MERN Developer, Seeking Entry-Level Opportunity
 <a href="https://www.hackerrank.com/profile/botchaindravath1" target="blank" backgroundColor="white"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="botchaindravath1" height="30" width="50" /></a>
 <a href="https://leetcode.com/botchaindravathi248/" target="blank" backgroundColor="white"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="botchaindravathi248" height="30" width="50" /></a>
 
-## 📩 Contact
+## 📩 Connect with me on 
 
-<a href="https://www.linkedin.com/in/botcha-indravathi-8b77391aa/" target="blank" backgroundColor="#ffffff"
+<div display="flex">
+  <a href="https://www.linkedin.com/in/botcha-indravathi-8b77391aa/" target="blank" backgroundColor="#ffffff"
   backgroundColor="white"><img align="center" height="20px" width="20px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="botcha-indravathi" height="30" width="50" /></a>
   
 <a href="https://www.instagram.com/indhu_hehhehe/" target="blank" background-color="white">Instagram <img align="center" height="20px" width="20px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="indhu_hehhehe" height="30" width="50" /></a>
+</div>
 
 
 <h3 align="left">Languages and Tools:</h3>
