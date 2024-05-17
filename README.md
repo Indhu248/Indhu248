@@ -1,5 +1,6 @@
 ### Hey, I'm Indravathi 👋
 MERN Developer, Seeking Entry-Level Opportunity
+<span style="color: green"> Some green text </span>
 
 ## 📦 ToolBox
 **Front-end:** `HTML` `CSS` `JavaScript` `ReactJS` `TypeScript` </br>
