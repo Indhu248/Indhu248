@@ -1,6 +1,6 @@
 [![MasterHead](https://github.com/Indhu248/Indhu248/assets/81157199/08da2b12-2203-4107-9d59-eeec2e1a56e8)](https://indhu248.github.io/portfolio_indhu/)
-<h1 align="center">Hi 👋,I'm Indravathi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="centre">Hi 👋,I'm Indravathi</h1>
+<h3 align="centre">A passionate frontend developer from India</h3>
 
 - MERN Developer
 - Seeking Entry-Level Opportunity
