@@ -1,7 +1,8 @@
-### Hey, I'm Indravathi 👋
+## Hey, I'm Indravathi 👋
 MERN Developer, Seeking Entry-Level Opportunity
 
 - Check out my [portfolio](https://indhu248.github.io/portfolio_indhu/) to know more about me
+- View my [Work](https://github.com/Indhu248?tab=repositories)
 
 ## 📦 ToolBox
 **Front-end:** `HTML` `CSS` `JavaScript` `ReactJS` `TypeScript` </br>
