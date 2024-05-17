@@ -16,8 +16,8 @@ MERN Developer, Seeking Entry-Level Opportunity
 
 ## 📩 Contact
 
-<a href="https://www.linkedin.com/in/botcha-indravathi-8b77391aa/" target="blank"
-  backgroundColor="white">For a quick response, DM me on <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="botcha-indravathi" height="30" width="50" /></a>
+<a href="https://www.linkedin.com/in/botcha-indravathi-8b77391aa/" target="blank" height="30px" width="30px"
+  backgroundColor="white"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="botcha-indravathi" height="30" width="50" /></a>
   
 <a href="https://www.instagram.com/indhu_hehhehe/" target="blank" backgroundColor="white">Instagram <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="indhu_hehhehe" height="30" width="50" /></a>
 
