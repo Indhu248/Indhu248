@@ -16,7 +16,7 @@ MERN Developer, Seeking Entry-Level Opportunity
 
 ## 📩 Connect with me on 
 
-For a quick response, DM me on [LinkedIn] (https://www.linkedin.com/in/botcha-indravathi-8b77391aa/)
+For a quick response, DM me on [https://www.linkedin.com/in/botcha-indravathi-8b77391aa/] (LinkedIn)
   <a href="https://www.linkedin.com/in/botcha-indravathi-8b77391aa/" target="blank" backgroundColor="#ffffff"
   backgroundColor="white">LinkedIn</a>
   
