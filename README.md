@@ -3,8 +3,7 @@
 
 ## 📦 ToolBox
 
-**Front-end:** >HTML CSS JavaScript ReactJS TypeScript </br>
->jd
+**Front-end:** `HTML` `CSS` `JavaScript` `ReactJS` `TypeScript` </br>
 **Back-end:** NodeJs ExpressJs </br>
 **Languages:** Java Python </br>
 **Database:** SQL MongoDB </br>
