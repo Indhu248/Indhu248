@@ -1,6 +1,5 @@
-<h2> Hey, I'm Indravathi 👋
-<h5>MERN Developer, Seeking Entry-Level Opportunity</h5></h2>
-
+### Hey, I'm Indravathi 👋
+MERN Developer, Seeking Entry-Level Opportunity
 
 ## 📦 ToolBox
 **Front-end:** `HTML` `CSS` `JavaScript` `ReactJS` `TypeScript` </br>
