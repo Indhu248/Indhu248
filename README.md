@@ -10,8 +10,8 @@ MERN Developer, Seeking Entry-Level Opportunity
 **Styling & animation frameworks:** `TailwindCSS` `FramerMotion` </br>
 `DSA`
 
-## 📩 Connect
-<a> `<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="indhu248" height="30" width="50" backgroundColor=""/>`</a>
+## 📩 Contact
+<a> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="indhu248" height="30" width="50" backgroundColor=""/></a>
 
 <a href="https://www.linkedin.com/in/botcha-indravathi-8b77391aa/" target="blank"
   backgroundColor="white"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="botcha-indravathi" height="30" width="50" /></a>
