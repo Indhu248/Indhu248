@@ -10,16 +10,11 @@ MERN Developer, Seeking Entry-Level Opportunity
 **Styling & animation frameworks:** `TailwindCSS` `FramerMotion` </br>
 `DSA`
 
-<a><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="indhu248" height="30" width="50" backgroundColor=""/></a>
-<a href="https://www.hackerrank.com/profile/botchaindravath1" target="blank" backgroundColor="white"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="botchaindravath1" height="30" width="50" /></a>
-<a href="https://leetcode.com/botchaindravathi248/" target="blank" backgroundColor="white"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="botchaindravathi248" height="30" width="50" /></a>
-
 ## 📩 Connect with me on 
 
-For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/botchaindravathi)
-  
-<a href="https://www.instagram.com/indhu_hehhehe/" target="blank" background-color="white"><img align="center" height="20px" width="20px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="indhu_hehhehe" height="30" width="50" /> Instagram</a>
-</div>
+[LinkedIn ](https://www.linkedin.com/in/botchaindravathi)
+[Instagram ](https://www.instagram.com/indhu_hehhehe/)
+
 
 
 <h3 align="left">Languages and Tools:</h3>
