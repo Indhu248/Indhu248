@@ -1,12 +1,8 @@
-[![MasterHead](https://github.com/Indhu248/Indhu248/assets/81157199/08da2b12-2203-4107-9d59-eeec2e1a56e8)](https://indhu248.github.io/portfolio_indhu/)
-<h1 align="centre">Hi 👋,I'm Indravathi</h1>
-<h3 align="centre">A passionate frontend developer from India</h3>
+<h1 align="centre">Hey, I'm Indravathi 👋</h1>
+<h3 align="centre">MERN Developer, Seeking Entry-Level Opportunity</h3>
 
-- MERN Developer
-- Seeking Entry-Level Opportunity
-- ReactJS, NodeJs, Express, MongoDB & Typescript
-- Projects [Here](https://github.com/Indhu248)
-- Reach me out **botchaindravathi248@gmail.com**
+# 📦 ToolBox
+## Front-end: ### HTML CSS JavaScript ReactJS 
 
 <h3 align="centre">Connect with me:</h3>
 <p align="centre">
