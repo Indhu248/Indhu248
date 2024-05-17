@@ -16,11 +16,10 @@ MERN Developer, Seeking Entry-Level Opportunity
 
 ## 📩 Connect with me on 
 
-<div display="flex">
   <a href="https://www.linkedin.com/in/botcha-indravathi-8b77391aa/" target="blank" backgroundColor="#ffffff"
-  backgroundColor="white"><img align="center" height="20px" width="20px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="botcha-indravathi" height="30" width="50" /></a>
+  backgroundColor="white"><img align="center" height="20px" width="20px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="botcha-indravathi" height="30" width="50" /> LinkedIn</a>
   
-<a href="https://www.instagram.com/indhu_hehhehe/" target="blank" background-color="white"><img align="center" height="20px" width="20px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="indhu_hehhehe" height="30" width="50" /></a>
+<a href="https://www.instagram.com/indhu_hehhehe/" target="blank" background-color="white"><img align="center" height="20px" width="20px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="indhu_hehhehe" height="30" width="50" /> Instagram</a>
 </div>
 
 
