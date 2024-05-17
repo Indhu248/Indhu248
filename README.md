@@ -18,6 +18,11 @@ MERN Developer, Seeking Entry-Level Opportunity
 - [LinkedIn ](https://www.linkedin.com/in/botchaindravathi)
 - [Instagram ](https://www.instagram.com/indhu_hehhehe/)
 
+## ✨ Fun Facts
+
+- Weeb alert! Huge fan of Demon Slayer and My Hero Academia! 🤩
+- I dabble in drawing, video editing, and whipping up creative templates! Still a work in progress, though.
+- Childhood dream: doctor 🩺. Reality: computer science degree! 👩🏻‍💻 😂
 
 
 <h3 align="left">Languages and Tools:</h3>
