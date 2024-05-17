@@ -4,11 +4,11 @@
 ## 📦 ToolBox
 
 **Front-end:** __ HTML CSS JavaScript ReactJS TypeScript </br>
-**Back-end:** NodeJs ExpressJs
-**Languages:** Java Python
-**Database:** SQL MongoDB
-**Version Control:** Git GitHub
-**Styling & animation frameworks:** TailwindCSS FramerMotion
+**Back-end:** NodeJs ExpressJs </br>
+**Languages:** Java Python </br>
+**Database:** SQL MongoDB </br>
+**Version Control:** Git GitHub </br>
+**Styling & animation frameworks:** TailwindCSS FramerMotion </br>
 DSA
 
 <h3 align="centre">Connect with me:</h3>
