@@ -2,21 +2,20 @@
 <h1 align="center">Hi 👋,I'm Indravathi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=indhu248&label=Profile%20views&color=0e75b6&style=flat" alt="indhu248" /> </p>
+- MERN Developer
+- Seeking Entry-Level Opportunity
+- ReactJS, NodeJs, Express, MongoDB & Typescript
+- Projects [Here](https://github.com/Indhu248)
+- Reach me out **botchaindravathi248@gmail.com**
 
-- 🌱 I’m currently learning **ReactJS, AngularJS**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Indhu248](https://github.com/Indhu248)
-
-- 📫 How to reach me **botchaindravathi248@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="centre">Connect with me:</h3>
+<p align="centre">
 <a href="https://codepen.io/Indhu248" target="blank" backgroundColor="white"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="indhu248" height="30" width="50" backgroundColor=""/></a>
-<a href="https://www.linkedin.com/in/botcha-indravathi-8b77391aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="botcha-indravathi" height="30" width="50" /></a>
-<a href="https://www.instagram.com/indhu_hehhehe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="indhu_hehhehe" height="30" width="50" /></a>
-<a href="https://www.hackerrank.com/profile/botchaindravath1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="botchaindravath1" height="30" width="50" /></a>
-<a href="https://leetcode.com/botchaindravathi248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="botchaindravathi248" height="30" width="50" /></a>
+<a href="https://www.linkedin.com/in/botcha-indravathi-8b77391aa/" target="blank"
+  backgroundColor="white"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="botcha-indravathi" height="30" width="50" /></a>
+<a href="https://www.instagram.com/indhu_hehhehe/" target="blank" backgroundColor="white"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="indhu_hehhehe" height="30" width="50" /></a>
+<a href="https://www.hackerrank.com/profile/botchaindravath1" target="blank" backgroundColor="white"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="botchaindravath1" height="30" width="50" /></a>
+<a href="https://leetcode.com/botchaindravathi248/" target="blank" backgroundColor="white"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="botchaindravathi248" height="30" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
