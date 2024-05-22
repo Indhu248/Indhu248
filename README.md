@@ -17,6 +17,7 @@ MERN Developer, Seeking Entry-Level Opportunity
 
 - [LinkedIn ](https://www.linkedin.com/in/botchaindravathi)
 - [Instagram ](https://www.instagram.com/indhu_hehhehe/)
+- [ Gmail ] (botchaindravathi248@gmail.com)
 
 ## ✨ Fun Facts
 
