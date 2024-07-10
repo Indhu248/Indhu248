@@ -1,4 +1,4 @@
-## Hey, I'm Indravathi 👋
+# Hey, I'm Indravathi 👋
 🎓 MCA Graduate </br>
 💻 MERN Developer, Seeking Entry-Level Opportunity
 
