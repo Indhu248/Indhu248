@@ -1,27 +1,42 @@
-# Hey, I'm Indravathi 👋
-🎓 MCA Graduate </br>
-💻 MERN Developer, Seeking Entry-Level Opportunity
+# 👋 Hey, I'm Indravathi!  
+🎓 **MCA Graduate** | 💻 **MERN Developer** | 🚀 **Seeking Entry-Level Opportunity**
 
-- Check out my [portfolio](https://indhu248.github.io/portfolio_indhu/) to know more about me
-- View my [Work](https://github.com/Indhu248?tab=repositories)
+🔍 **Passionate about creating impactful web applications, clean code, and seamless user experiences.**  
+📚 **Always learning, always growing!**
 
-## 📦 ToolBox
-**Front-end:** `HTML` `CSS` `JavaScript` `ReactJS` `TypeScript` </br>
-**Back-end:** `NodeJs` `ExpressJs` </br>
-**Languages:** `Java` `Python` </br>
-**Database:** `SQL` `MongoDB` </br>
-**Version Control:** `Git` `GitHub` </br>
-**Styling & animation frameworks:** `TailwindCSS` `FramerMotion` </br>
-`DSA`
+---
 
-## 📩 Connect with me on 
+## 🌐 **About Me**  
+- 🚀 **Explore my work**: [Portfolio](https://indhu248.github.io/portfolio_indhu/)  
+- 💻 **View my projects**: [GitHub Repositories](https://github.com/Indhu248?tab=repositories)  
 
-- [LinkedIn ](https://www.linkedin.com/in/botchaindravathi)
-- [Instagram ](https://www.instagram.com/indhu_hehhehe/)
+---
 
-## ✨ Fun Facts
+## 📦 **Tech Toolbox**  
+- **Frontend:** `HTML` `CSS` `JavaScript` `ReactJS` `TypeScript`  
+- **Backend:** `NodeJS` `ExpressJS`  
+- **Languages:** `Java` `Python`  
+- **Database:** `SQL` `MongoDB`  
+- **Version Control:** `Git` `GitHub`  
+- **Styling & Animation:** `TailwindCSS` `Framer Motion`  
+- **Other Skills:** `Data Structures & Algorithms (DSA)`  
 
-- Weeb alert! Huge fan of Demon Slayer and My Hero Academia! 🤩
-- I dabble in drawing, video editing, and whipping up creative templates! Still a work in progress, though.
-- Childhood dream: doctor 🩺. Reality: computer science degree! 👩🏻‍💻 😂
+---
+
+## 📩 **Connect With Me**  
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/botchaindravathi)  
+- 📸 [**Instagram**](https://www.instagram.com/indhu_hehhehe/)  
+
+---
+
+## ✨ **Fun Facts About Me!**  
+- 🎉 **Anime Lover**: A proud weeb with a deep love for *Demon Slayer* and *My Hero Academia*!  
+- ✍️ **Creative Soul**: I enjoy drawing, video editing, and crafting artistic templates.  
+- 🚀 **From Dreams to Reality**: Wanted to be a doctor as a kid, but fate had bigger plans — now, I'm coding my way to success! 👩🏻‍💻  
+
+---
+
+💡 **Curious, Creative, and Determined** — I’m ready to bring my skills to the world of development and grow as a problem-solver.  
+🌟 Let’s connect and create something amazing together!
+
   
