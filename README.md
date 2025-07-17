@@ -1,42 +1,84 @@
-# 👋 Hey, I'm Indravathi!  
-🎓 **MCA Graduate** | 💻 **MERN Developer** | 🚀 **Seeking Entry-Level Opportunity**
+# 👋 Hey, I'm Indravathi
 
-🔍 **Passionate about creating impactful web applications, clean code, and seamless user experiences.**  
-📚 **Always learning, always growing!**
+💻 **Full-Stack Developer (MERN + TypeScript)** | 🎨 **Creative Technologist** | 🚀 **Freelancer + Product Builder**
 
 ---
 
-## 🌐 **About Me**  
-- 🚀 **Explore my work**: [Portfolio](https://indhu248.github.io/portfolio_indhu/)  
-- 💻 **View my projects**: [GitHub Repositories](https://github.com/Indhu248?tab=repositories)  
+## 🔍 **About Me**
+
+I build sleek, scalable, and user-first digital experiences — blending clean code with modern design. Whether it's a landing page, SaaS app, or mobile-friendly platform, I bring ideas to life with performance and purpose.
+
+* 🔗 [**Portfolio Website**](https://indhu248.github.io/portfolio_indhu/)
+* 🛠️ [**GitHub Projects**](https://github.com/Indhu248?tab=repositories)
+* 🔗 [**Linkedin**](https://www.linkedin.com/in/indravathibotcha/)
+* 🔗 [**Instagram**](https://www.instagram.com/indhu_hehhehe/)
+* 🔗 [**Threads**](https://www.threads.com/@indhu_hehhehe)
+* 🔗 [**X**](https://www.threads.com/@indhu_hehhehe)
+* 🌱 Currently: Freelancing + building digital products
+* 📫 Open for: Remote full-time roles, collaborations, and freelance work
 
 ---
 
-## 📦 **Tech Toolbox**  
-- **Frontend:** `HTML` `CSS` `JavaScript` `ReactJS` `TypeScript`  
-- **Backend:** `NodeJS` `ExpressJS`  
-- **Languages:** `Java` `Python`  
-- **Database:** `SQL` `MongoDB`  
-- **Version Control:** `Git` `GitHub`  
-- **Styling & Animation:** `TailwindCSS` `Framer Motion`  
-- **Other Skills:** `Data Structures & Algorithms (DSA)`  
+## 🧰 **Tech Stack**
+
+### 🚀 **Frontend**
+
+* `React.js` / `Next.js`
+* `TypeScript`, `JavaScript`, `HTML`, `CSS`
+* `Tailwind CSS`, `SCSS`
+* `Framer Motion`, `GSAP`
+* `Responsive UI` / `SEO` / `Accessibility`
+
+### 🛠️ **Backend & API**
+
+* `Node.js`, `Express.js`
+* `REST API`, `JWT Auth`
+* `Axios`, `Nodemailer`
+
+### 🧠 **Database & Storage**
+
+* `MongoDB`, `Mongoose`
+* `Firebase`, `Cloudinary`
+
+### ⚙️ **Dev Tools & Ecosystem**
+
+* `Git`, `GitHub`, `VS Code`, `Postman`
+* `Appwrite`, `Vercel`, `Netlify`, `Render`
+* `Figma`, `Canva`, `Notion`
+
+### 📱 **Mobile & UI**
+
+* `React Native` (with `Expo`)
+* `NativeWind`, `FlatList`, `Navigation`
 
 ---
 
-## 📩 **Connect With Me**  
-- 💼 [**LinkedIn**](https://www.linkedin.com/in/botchaindravathi)  
-- 📸 [**Instagram**](https://www.instagram.com/indhu_hehhehe/)  
+## 💡 **What I Do Best**
+
+* Build fast, aesthetic, and mobile-first interfaces
+* Design logic-heavy, component-based apps
+* Animate interfaces with motion libraries
+* Handle full project pipelines: frontend + backend + deployment
+* Write scalable, readable, and maintainable code
 
 ---
 
-## ✨ **Fun Facts About Me!**  
-- 🎉 **Anime Lover**: A proud weeb with a deep love for *Demon Slayer* and *My Hero Academia*!  
-- ✍️ **Creative Soul**: I enjoy drawing, video editing, and crafting artistic templates.  
-- 🚀 **From Dreams to Reality**: Wanted to be a doctor as a kid, but fate had bigger plans — now, I'm coding my way to success! 👩🏻‍💻  
+## 📬 **Let’s Connect**
+
+* [LinkedIn](https://www.linkedin.com/in/botchaindravathi)
+* [Instagram](https://www.instagram.com/indhu_hehhehe/)
+* Gumroad, Twitter/X – **Coming soon**
 
 ---
 
-💡 **Curious, Creative, and Determined** — I’m ready to bring my skills to the world of development and grow as a problem-solver.  
-🌟 Let’s connect and create something amazing together!
+## 🎉 **Fun Bits About Me**
 
-  
+* ✏️ Sketching, designing, and editing are my creative fuel
+* 🧠 Lifelong learner and huge anime fan (*Demon Slayer*, *MHA*)
+* 👩🏻‍💻 Once dreamed of becoming a doctor — now I build smarter digital futures
+
+---
+
+⚡ **Driven. Detail-Oriented. Always Delivering.**
+Let’s create something meaningful together.
+
