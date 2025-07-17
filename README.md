@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Indravathi
 
-💻 **Full-Stack Developer (MERN + TypeScript)** | 🎨 **Creative Technologist** | 🚀 **Freelancer + Product Builder**
+💻 **Web & App Developer (MERN + TypeScript + NextJs + ReactNative + Expo)** | 🎨 **Creative Technologist** | 🚀 **Freelancer + Product Builder**
 
 ---
 
