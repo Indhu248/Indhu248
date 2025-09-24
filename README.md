@@ -8,7 +8,7 @@
 
 I build sleek, scalable, and user-first digital experiences — blending clean code with modern design. Whether it's a landing page, SaaS app, or mobile-friendly platform, I bring ideas to life with performance and purpose.
 
-* 🔗 [**Portfolio Website**](https://indhu248.github.io/portfolio_indhu/)
+* 🔗 [**Portfolio Website**](https://indhu-hehhehe.vercel.app/)
 * 🛠️ [**GitHub Projects**](https://github.com/Indhu248?tab=repositories)
 * 🔗 [**Linkedin**](https://www.linkedin.com/in/indravathibotcha/)
 * 🔗 [**Instagram**](https://www.instagram.com/indhu_hehhehe/)
